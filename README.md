@@ -5,10 +5,10 @@ look at this youtube video about computer science https://www.youtube.com/watch?
 
 **nasserkhurma/Nasserkhurma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 1. Football
-2. Another item basketball
+2.  basketball
 ⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
+1. Chips
 ⋅⋅1. Ordered sub-list
-4. And another item.
+4. Nike T shirt
 
 
