@@ -9,7 +9,7 @@ look at this youtube video about computer science https://www.youtube.com/watch?
 ⋅⋅* Unordered sub-list. 
 1. Chips
 ⋅⋅1. Ordered sub-list
-4. Nike T shirt
+4. *NIKE* T shirt
 
  | Football plaers       | Teams           | price |
 | ------------- |:-------------:| -----:|
