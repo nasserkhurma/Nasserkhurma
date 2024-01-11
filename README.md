@@ -10,14 +10,11 @@ look at this youtube video about computer science https://www.youtube.com/watch?
 1. Chips
 ⋅⋅1. Ordered sub-list
 4. Nike T shirt
-| Football plaers       | Teams           | price |
+
+ | Football plaers       | Teams           | price |
 | ------------- |:-------------:| -----:|
 | messi     | Barcelona |  |$60000000
 | Drogba     | Chelsea      |   $999999999 |
 | Haaland | Man City      |    $555555555 |
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 
