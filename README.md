@@ -13,7 +13,7 @@ look at this youtube video about computer science https://www.youtube.com/watch?
 
  | Football plaers       | Teams           | price |
 | ------------- |:-------------:| -----:|
-| messi     | Barcelona |  |$60000000
+| **messi**     | Barcelona |  |$60000000
 | Drogba     | Chelsea      |   $999999999 |
 | Haaland | Man City      |    $555555555 |
 
